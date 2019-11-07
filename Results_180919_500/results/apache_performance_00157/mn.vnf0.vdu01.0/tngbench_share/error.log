@@ -1,0 +1,4 @@
+[Sat Oct 19 00:05:31.614460 2019] [mpm_prefork:notice] [pid 47] AH00163: Apache/2.4.18 (Ubuntu) configured -- resuming normal operations
+[Sat Oct 19 00:05:31.614531 2019] [core:notice] [pid 47] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Sat Oct 19 00:05:58.521643 2019] [mpm_prefork:error] [pid 47] AH00161: server reached MaxRequestWorkers setting, consider raising the MaxRequestWorkers setting
+[Sat Oct 19 00:06:10.535871 2019] [mpm_prefork:notice] [pid 47] AH00169: caught SIGTERM, shutting down

@@ -1,0 +1,17 @@
+[Fri Oct 18 21:43:25.948159 2019] [mpm_prefork:notice] [pid 42] AH00163: Apache/2.4.18 (Ubuntu) configured -- resuming normal operations
+[Fri Oct 18 21:43:25.948215 2019] [core:notice] [pid 42] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Fri Oct 18 21:43:49.424793 2019] [mpm_prefork:error] [pid 42] AH00161: server reached MaxRequestWorkers setting, consider raising the MaxRequestWorkers setting
+[Fri Oct 18 21:44:07.339734 2019] [core:warn] [pid 42] AH00045: child process 72 still did not exit, sending a SIGTERM
+[Fri Oct 18 21:44:07.339793 2019] [core:warn] [pid 42] AH00045: child process 73 still did not exit, sending a SIGTERM
+[Fri Oct 18 21:44:07.339878 2019] [core:warn] [pid 42] AH00045: child process 115 still did not exit, sending a SIGTERM
+[Fri Oct 18 21:44:07.339892 2019] [core:warn] [pid 42] AH00045: child process 121 still did not exit, sending a SIGTERM
+[Fri Oct 18 21:44:07.339922 2019] [core:warn] [pid 42] AH00045: child process 141 still did not exit, sending a SIGTERM
+[Fri Oct 18 21:44:07.339934 2019] [core:warn] [pid 42] AH00045: child process 142 still did not exit, sending a SIGTERM
+[Fri Oct 18 21:44:07.339945 2019] [core:warn] [pid 42] AH00045: child process 143 still did not exit, sending a SIGTERM
+[Fri Oct 18 21:44:07.339956 2019] [core:warn] [pid 42] AH00045: child process 144 still did not exit, sending a SIGTERM
+[Fri Oct 18 21:44:07.339976 2019] [core:warn] [pid 42] AH00045: child process 154 still did not exit, sending a SIGTERM
+[Fri Oct 18 21:44:07.339997 2019] [core:warn] [pid 42] AH00045: child process 175 still did not exit, sending a SIGTERM
+[Fri Oct 18 21:44:07.340009 2019] [core:warn] [pid 42] AH00045: child process 182 still did not exit, sending a SIGTERM
+[Fri Oct 18 21:44:07.340028 2019] [core:warn] [pid 42] AH00045: child process 185 still did not exit, sending a SIGTERM
+[Fri Oct 18 21:44:07.340049 2019] [core:warn] [pid 42] AH00045: child process 193 still did not exit, sending a SIGTERM
+[Fri Oct 18 21:44:07.602785 2019] [mpm_prefork:notice] [pid 42] AH00169: caught SIGTERM, shutting down

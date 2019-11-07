@@ -1,0 +1,10 @@
+Collecting intf statistics...
+Out: /tngbench_share/result.yml
+----eth0
+----input
+----mgmt
+----output
+----lo
+Writing '/tngbench_share/result.yml'
+done.
+./stop.sh: line 8: /mnt/share/stop.txt: No such file or directory

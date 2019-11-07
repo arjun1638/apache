@@ -1,0 +1,36 @@
+[Fri Oct 18 22:34:53.178914 2019] [mpm_prefork:notice] [pid 48] AH00163: Apache/2.4.18 (Ubuntu) configured -- resuming normal operations
+[Fri Oct 18 22:34:53.178969 2019] [core:notice] [pid 48] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Fri Oct 18 22:35:08.425852 2019] [mpm_prefork:error] [pid 48] AH00161: server reached MaxRequestWorkers setting, consider raising the MaxRequestWorkers setting
+[Fri Oct 18 22:35:34.343748 2019] [core:warn] [pid 48] AH00045: child process 49 still did not exit, sending a SIGTERM
+[Fri Oct 18 22:35:34.343910 2019] [core:warn] [pid 48] AH00045: child process 60 still did not exit, sending a SIGTERM
+[Fri Oct 18 22:35:34.343956 2019] [core:warn] [pid 48] AH00045: child process 64 still did not exit, sending a SIGTERM
+[Fri Oct 18 22:35:34.344087 2019] [core:warn] [pid 48] AH00045: child process 79 still did not exit, sending a SIGTERM
+[Fri Oct 18 22:35:34.344103 2019] [core:warn] [pid 48] AH00045: child process 80 still did not exit, sending a SIGTERM
+[Fri Oct 18 22:35:34.344118 2019] [core:warn] [pid 48] AH00045: child process 81 still did not exit, sending a SIGTERM
+[Fri Oct 18 22:35:34.344132 2019] [core:warn] [pid 48] AH00045: child process 82 still did not exit, sending a SIGTERM
+[Fri Oct 18 22:35:34.344173 2019] [core:warn] [pid 48] AH00045: child process 86 still did not exit, sending a SIGTERM
+[Fri Oct 18 22:35:34.344188 2019] [core:warn] [pid 48] AH00045: child process 87 still did not exit, sending a SIGTERM
+[Fri Oct 18 22:35:34.344236 2019] [core:warn] [pid 48] AH00045: child process 92 still did not exit, sending a SIGTERM
+[Fri Oct 18 22:35:34.344343 2019] [core:warn] [pid 48] AH00045: child process 104 still did not exit, sending a SIGTERM
+[Fri Oct 18 22:35:34.344383 2019] [core:warn] [pid 48] AH00045: child process 108 still did not exit, sending a SIGTERM
+[Fri Oct 18 22:35:34.344464 2019] [core:warn] [pid 48] AH00045: child process 117 still did not exit, sending a SIGTERM
+[Fri Oct 18 22:35:34.344497 2019] [core:warn] [pid 48] AH00045: child process 120 still did not exit, sending a SIGTERM
+[Fri Oct 18 22:35:34.344521 2019] [core:warn] [pid 48] AH00045: child process 122 still did not exit, sending a SIGTERM
+[Fri Oct 18 22:35:34.344544 2019] [core:warn] [pid 48] AH00045: child process 124 still did not exit, sending a SIGTERM
+[Fri Oct 18 22:35:34.344558 2019] [core:warn] [pid 48] AH00045: child process 125 still did not exit, sending a SIGTERM
+[Fri Oct 18 22:35:34.344581 2019] [core:warn] [pid 48] AH00045: child process 127 still did not exit, sending a SIGTERM
+[Fri Oct 18 22:35:34.344663 2019] [core:warn] [pid 48] AH00045: child process 136 still did not exit, sending a SIGTERM
+[Fri Oct 18 22:35:34.344746 2019] [core:warn] [pid 48] AH00045: child process 145 still did not exit, sending a SIGTERM
+[Fri Oct 18 22:35:34.344779 2019] [core:warn] [pid 48] AH00045: child process 148 still did not exit, sending a SIGTERM
+[Fri Oct 18 22:35:34.344792 2019] [core:warn] [pid 48] AH00045: child process 149 still did not exit, sending a SIGTERM
+[Fri Oct 18 22:35:34.344805 2019] [core:warn] [pid 48] AH00045: child process 150 still did not exit, sending a SIGTERM
+[Fri Oct 18 22:35:34.344818 2019] [core:warn] [pid 48] AH00045: child process 151 still did not exit, sending a SIGTERM
+[Fri Oct 18 22:35:34.344830 2019] [core:warn] [pid 48] AH00045: child process 152 still did not exit, sending a SIGTERM
+[Fri Oct 18 22:35:34.344871 2019] [core:warn] [pid 48] AH00045: child process 156 still did not exit, sending a SIGTERM
+[Fri Oct 18 22:35:34.344956 2019] [core:warn] [pid 48] AH00045: child process 165 still did not exit, sending a SIGTERM
+[Fri Oct 18 22:35:34.344989 2019] [core:warn] [pid 48] AH00045: child process 168 still did not exit, sending a SIGTERM
+[Fri Oct 18 22:35:34.345118 2019] [core:warn] [pid 48] AH00045: child process 182 still did not exit, sending a SIGTERM
+[Fri Oct 18 22:35:34.345160 2019] [core:warn] [pid 48] AH00045: child process 186 still did not exit, sending a SIGTERM
+[Fri Oct 18 22:35:34.345200 2019] [core:warn] [pid 48] AH00045: child process 190 still did not exit, sending a SIGTERM
+[Fri Oct 18 22:35:34.345255 2019] [core:warn] [pid 48] AH00045: child process 194 still did not exit, sending a SIGTERM
+[Fri Oct 18 22:35:34.411371 2019] [mpm_prefork:notice] [pid 48] AH00169: caught SIGTERM, shutting down

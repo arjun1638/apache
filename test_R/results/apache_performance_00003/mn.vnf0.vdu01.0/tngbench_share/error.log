@@ -1,0 +1,3 @@
+[Wed Oct 30 18:53:27.875605 2019] [mpm_prefork:notice] [pid 39] AH00163: Apache/2.4.18 (Ubuntu) configured -- resuming normal operations
+[Wed Oct 30 18:53:27.875710 2019] [core:notice] [pid 39] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Oct 30 18:54:13.956349 2019] [mpm_prefork:notice] [pid 39] AH00169: caught SIGTERM, shutting down

@@ -1,0 +1,2 @@
+./stop.sh: line 5: python: command not found
+./stop.sh: line 8: /mnt/share/stop.txt: No such file or directory
